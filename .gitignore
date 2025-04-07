@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+data/secure-connect-test-cassandra.zip
+data/test_cassandra-token.json
